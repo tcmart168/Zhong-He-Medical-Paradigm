@@ -31,6 +31,6 @@ Document Identifier 2: https://zenodo.org/doi/10.5281/zenodo.22794406
 
 B. Total Scholarly Volume & Indexing Cross-Reference:
 
-Total Authenticated Research Record: 150+ Validated ORCID Works
+Total Authenticated Research Record: 230+ Validated ORCID Works
 
 Global Academic Verified Profile: https://orcid.org/0009-0009-8924-6958
